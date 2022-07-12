@@ -1,0 +1,32 @@
+html {
+background: linear-gradient(rgba(233, 234, 236, 0.75), rgba(130, 137, 158, 0.75)), 
+url(https://www.ionos.es/digitalguide/fileadmin/DigitalGuide/Teaser/web-development-t.jpg);
+background-size: 1400px 1150px;
+}
+#TittleId {
+    font-size: 19px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.image {
+    size: 300px 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+    bottom: 100px;        
+}
+.SubTittle {
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
+.paragraph {
+    font-size: 16px;
+}
+p {
+    display: flex;
+    justify-content: center;
+    align-items: center;      
+}

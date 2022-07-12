@@ -1,0 +1,8 @@
+Variables: Una variable es un valor asignado y reservado a almacenar algo, es decir, la variable guardara algo que le indiquemos para despues traerla cuando la necesitemos con el valor que le hemos asignado. 
+Strings: Los string son un tipo de dato, este tipo de dato es un bloque o cadena de texto. Para que se cumpla que sea un string debe si o si ir entre comillas dobles o sencillas ("string" o 'strin')
+Funciones: Son una parte muy importante en los lenguajes de programación. Las funciones son objetos invocables, Las funciones operan las variables (LAS CALCULAN, LAS CAMBIAN O HACEN ALGO CON ELLAS)
+    Argumentos: Son las variables que se tienen en la funcion, estos tienen asignados los valores que se le pasaran a la funcion.
+    `return`: Es una sentencia, la cual finaliza lo que ejecuta la funcion y retorna lo especificado a ser ejecutado segun la funcion. 
+Declaraciones: Son instrucciones que se dan en el codigo de que hacer y demás. 
+    `if`: Es una declaracion o palabra clave la cual le dice al operador del codigo que si una condicion se cumple ejecute una accion y si no ejecute tal otra accion. 
+Valores booleanos: Es el lenguaje de las computadoras y es conocido como codigo boleano el cual se basa en la logica que te da dos opciones (Verdadero{1} o falso{0}) o dos opciones (Activar o desactivar) en JS usamos 'True' Y 'False'

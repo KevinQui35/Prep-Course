@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Tarea HTML de Kevin</title>
+    <style>
+        html {
+            background: linear-gradient(rgba(147, 152, 164, 0.75), rgba(69, 72, 81, 0.75)), 
+            url(https://finde.latercera.com/wp-content/uploads/2022/05/Local-Burger-entrada-listo--700x450.jpg);
+            background-size: 1500px 1000px;
+        }
+        h1 {
+            color: yellow;
+        }
+        img {
+            width: 400px;
+        }
+        #thirdDiv {
+            position: absolute;
+            left: 380px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 600px; 
+            width: 500px;
+            background: palegoldenrod; 
+            padding: 50px;
+            border: 10px ridge rgb(49, 33, 63);
+        }
+        #spanId {
+            font-size: 18px;
+            margin: 50px;
+        }
+        .divClass {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="divClass">
+    <h1>Kevin Farid Quiroga Pulido</h1>
+    <h3>Henry</h3>
+    <h4>tarea de HTML / CSS</h4>
+    </div>
+
+    <div class="divClass">
+        <span id="spanId">Mi comida favorita es la hamburguesa, me encanta 
+            que su carne sea jugosa pero en el termino perfecto, los tradicionales pepinillos 
+            americanos y un bacon bien sellado como las que se pueden encontrar 
+            en: <a href="https://www.mcdonalds.com.co/">McDonalds,</a> es encantador</span>
+    </div>
+
+    <div id="thirdDiv">
+        <ul>
+            <li>
+                <img src="https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kNXTDwnc/200/200/original?country=co" alt="Hamburguesa sencilla">
+            </li>
+            <li>
+                <img src="https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kPXkBKch/200/200/original?country=co" alt="Una especial">
+            </li>
+        </ul>
+    </div>
+</body>
+</html>

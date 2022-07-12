@@ -1,0 +1,32 @@
+html {
+    background: linear-gradient(rgba(147, 152, 164, 0.75), rgba(69, 72, 81, 0.75)), 
+    url(https://finde.latercera.com/wp-content/uploads/2022/05/Local-Burger-entrada-listo--700x450.jpg);
+    background-size: 1500px 1000px;
+}
+h1 {
+    color: yellow;
+}
+img {
+    width: 400px;
+}
+#thirdDiv {
+    position: absolute;
+    left: 380px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 600px; 
+    width: 500px;
+    background: palegoldenrod; 
+    padding: 50px;
+    border: 10px ridge rgb(49, 33, 63);
+}
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
+.divClass {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

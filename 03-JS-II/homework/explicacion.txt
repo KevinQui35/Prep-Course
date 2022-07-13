@@ -1,0 +1,4 @@
+for: Es un bucle con una sintaxis o forma de escribirlo unica. Este bucle se basa en que sobre la variable declarada es donde se repetira el bucle con la instruccion que demos. El final de este bucle sera en cuando la declaracion se convierta en 'FALSE'. La tercera parte de este for es el incremento de la variable que debe suceder hasta que se logre el false segun la declaracion dada.
+`&&`: Es un operador logico el cual indica "Y" O "AND". Se encarga de que se cumplan dos expresiones o mas para arrojar un verdadero. Si solo se cumple una o no el total de las expresiones sera false. 
+`||`: Es un operador logico que indica "O" U "OR". Se encarga de dar opciones de expresiones donde con que se compla una y las demas no, arrojara verdadero. 
+`!`: Este operador logico indica "NO" o "NOT". Es una negación por lo cual devolvera un valor booleano contrario o negara la expresion asignada.

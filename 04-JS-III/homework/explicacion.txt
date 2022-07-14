@@ -1,0 +1,1 @@
+array: Es un tipo de datos que funciona como una coleccion de datos, la cual almacena datos del mismo tipo y con relacion. 

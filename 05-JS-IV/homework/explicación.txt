@@ -1,0 +1,6 @@
+Objetos: Es un contenedor de datos el cual almacena mucha informacion sobre una sola cosa. En otras palabras se entiende objeto como una coleccion de datos relacionados o propiedades.
+Propiedades: Son modificadores de los objetos. Es una asociacion entre un nombre  o clave y un valor (key:value).
+Métodos: son las funciones guardadas en un objeto. Similar a las propiedades, solo que estas ya son funciones. 
+Bucle `for…in`: Es una alternativa al bulcle 'for' que recorre propiedades de objetos. 
+Notación de puntos: document.createElement('pre'); (Se utiliza un punto para denotar.)
+Notación de corchetes: document['createElement']('pre'); (Se utilizan los corchetes para realizar la denotacion, en esta cabe resaltar que debe ir entre parentesis el contenido.) Esta si o si se usa cuando nos pasan un string por referencia.
